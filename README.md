@@ -34,9 +34,9 @@
 | Проект | Описание | Технологии | Демо |
 |--------|----------|------------|------|
 | [Genius Coin](https://github.com/SofiiaGudenko/genius-coin) | Криптовалютный лендинг с интерактивными элементами | <img src="https://img.shields.io/badge/-HTML5-E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6" alt="CSS3"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/-Vite-B73BFE" alt="Vite"/> | [Live Demo](https://sofiiagudenko.github.io/genius-coin/) |
-| [Stellar Burgers](https://github.com/...) | Космическая бургерная с real-time обновлениями | <img src="https://img.shields.io/badge/-React-61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript"/> |  |
-| [Contractor-X](https://github.com/...) | Адаптивный лендинг для "умного города" | <img src="https://img.shields.io/badge/-HTML5-E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6" alt="CSS3"/> | [Live Demo](https://sofiiagudenko.github.io/Contractor-X/) |
-| [Todo App](https://github.com/...) | Менеджер задач с кастомными хуками | <img src="https://img.shields.io/badge/-React-61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9" alt="Webpack"/> |  |
+| [Stellar Burgers](https://github.com/SofiiaGudenko/stellar-burgers) | Космическая бургерная с real-time обновлениями | <img src="https://img.shields.io/badge/-React-61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6" alt="TypeScript"/> |  |
+| [Contractor-X](https://github.com/SofiiaGudenko/Contractor-X) | Адаптивный лендинг для "умного города" | <img src="https://img.shields.io/badge/-HTML5-E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/-CSS3-1572B6" alt="CSS3"/> | [Live Demo](https://sofiiagudenko.github.io/Contractor-X/) |
+| [Todo App](https://github.com/SofiiaGudenko/react-app-todo) | Менеджер задач с кастомными хуками | <img src="https://img.shields.io/badge/-React-61DAFB" alt="React"/> <img src="https://img.shields.io/badge/-Webpack-8DD6F9" alt="Webpack"/> |  |
 ---
 
 ### Хобби и интересы
